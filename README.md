@@ -47,7 +47,9 @@
 <p align="center">
 <a href="https://youtube.com/@prabathme?si=5DDnCJfeLCG_JZic" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="prabathkavinda" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/prabathkavinda" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="prabathkavinda" height="50" width="50" /></a>
-  <a href="https://medium.com/@pkwellappili" target="blank"><img align="center" src="https://iconscout.com/free-icon/medium-3855923_3201557" alt="prabathkavinda" height="50" width="50" /></a>
+
+  
+ 
 </p>
 
 ---
